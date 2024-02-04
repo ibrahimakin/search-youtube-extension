@@ -1,0 +1,10 @@
+{
+    "name": "Search Youtube",
+    "description": "Search the selected text on Youtube.",
+    "version": "0.1",
+    "permissions": ["contextMenus"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "manifest_version": 3
+}
